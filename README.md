@@ -23,12 +23,12 @@ Siga os passos abaixo para executar este projeto localmente:
 
 2. **Entre no repositório**:
    ```bash
-      cd consumo-api-pokemon
+   cd consumo-api-pokemon
 
 3. **Faça as instalações**
    ```bash
-      npm install
+   npm install
 
 4. **Inicie o servidor do ReactJS**
    ```bash
-      npm start
+   npm start
